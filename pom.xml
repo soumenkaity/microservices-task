@@ -52,10 +52,6 @@
     </dependencies>
     <modules>
         <module>Config-Server</module>
-        <module>spring-eureka-server</module>
-        <module>spring-boot-zuulgatewayproxy</module>
-        <module>User Service</module>
-        <module>muzixApp</module>
     </modules>
     <build>
         <plugins>
